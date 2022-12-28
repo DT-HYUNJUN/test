@@ -1,4 +1,6 @@
-# 목표
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=d1dfe8&height=200&section=header&text=나의%20목표&fontSize=90" />
+</div><br>
 
 ## 인생 목표
 * 친구들과 여행가기
